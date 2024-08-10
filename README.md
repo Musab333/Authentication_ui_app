@@ -46,7 +46,7 @@
 
 # packages & Dependencies
   cupertino_icons: ^1.0.2
-  flutter_bloc: 
+  flutter_bloc: ^7.0.0
 
 # Directory Structure & Design System
 
